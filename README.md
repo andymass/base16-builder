@@ -1,3 +1,13 @@
+# Foreword
+This is a fork of
+[Base16-builder](https://github.com/chriskempson/base16-builder) 
+which adds a template for the MATLAB desktop GUI and editor:
+
+    > ./base16 -t matlab
+
+To download just the color schemes see
+[Base16-matlab](https://github.com/andymass/base16-matlab).
+
 # Base16 Builder
 Easily build color variations of Base16 with YAML scheme definitions and ERB templates.
 See the [Base16](https://github.com/chriskempson/base16) repository for more information.
@@ -62,6 +72,7 @@ Build a scheme stored on some webspace.
 * XFCE4 Terminal
 * Xresources
 * Zathura
+* MATLAB :new:
 
 ## Maintainers
 * [chriskempson](https://github.com/chriskempson) - HTML Preview, Vim, TextMate, iTerm 2, XFCE4 Terminal, Mou, Escape Code Shell Script, Gnome Terminal, BBEdit
@@ -77,6 +88,7 @@ Build a scheme stored on some webspace.
 * [romainx](https://github.com/romainx) - MultiMarkdown Composer 2
 * [moonpyk](https://github.com/moonpyk) - ConEmu
 * [jprjr](https://github.com/jprjr) - ConnectBot, vx-connectbot
+* [andymass](https://github.com/andymass) - MATLAB :new:
 
 ## License
 Base16 Builder is released under the [MIT License](https://github.com/chriskempson/base16-builder/blob/master/LICENSE.md)
